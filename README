@@ -1,7 +1,7 @@
-bitcoin-seeder
+Uninet-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+Uninet-seeder is a crawler for the Uninet network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
