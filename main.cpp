@@ -397,7 +397,7 @@ extern "C" void* ThreadStats(void*) {
   return nullptr;
 }
 
-static const string mainnet_seeds[] = {"dns1.uninet-coin.com", "dns2.uninet-coin.com", "dns3.uninet-coin.com", ""};
+static const string mainnet_seeds[] = {"dns1.uninet-coin.com", "dns2.uninet-coin.com", "ns2.uninet-coin.com", "ns3.uninet-coin.com", ""};
 static const string testnet_seeds[] = {"testnet-seed.uninet-coin.com",
                                        ""};
 static const string *seeds = mainnet_seeds;
